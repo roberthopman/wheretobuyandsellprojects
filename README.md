@@ -1,6 +1,23 @@
-# marktplaats
+# Places to buy and sell projects*
 
-contact: robert@bonaroo.nl
+*Projects include: 
+- mobile apps
+- websites
+- businesses
+
+Contact: robert@bonaroo.nl
+
+# International
+
+- https://feinternational.com/
+  - https://feinternational.com/buy-a-website/
+- https://microacquire.com/
+  - https://app.microacquire.com/marketplace
+- https://empireflippers.com/
+- https://flippa.com/
+- https://buymysideproject.com/
+
+# Dutch
 
 - https://www.brookz.nl/
   - https://www.brookz.nl/bedrijven-te-koop
@@ -22,13 +39,3 @@ contact: robert@bonaroo.nl
 - https://websitestekoop.nl/
 - https://www.ictscripters.com
   - https://www.ictscripters.com/Board/41-Marktplaats/
-
-# internationaal
-
-- https://feinternational.com/
-  - https://feinternational.com/buy-a-website/
-- https://microacquire.com/
-  - https://app.microacquire.com/marketplace
-- https://empireflippers.com/
-- https://flippa.com/
-- https://buymysideproject.com/
