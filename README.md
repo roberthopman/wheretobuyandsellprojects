@@ -15,7 +15,23 @@ Contact: robert@bonaroo.nl
   - https://app.microacquire.com/marketplace
 - https://empireflippers.com/
 - https://flippa.com/
+- https://websiteproperties.com/
+  - https://websiteproperties.com/websites-for-sale/
+- https://quietlight.com/
+  - https://quietlight.com/listings/
+- https://acquisitionsdirect.com/
+  - https://acquisitionsdirect.com/buy/
+- https://dealflowbrokerage.com/
+- https://getacquired.com/
+  - https://getacquired.com/listings/featured (registration required)
+- https://exchangemarketplace.com/
+- https://acquirebase.com/
+  - https://acquirebase.com/startups
+- https://indiemaker.co/
+- https://www.sideprojectors.com/
 - https://buymysideproject.com/
+- https://www.microns.io/
+- https://transferslot.com/
 
 # Dutch
 
