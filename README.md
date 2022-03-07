@@ -14,6 +14,7 @@ Contact: robert@bonaroo.nl
 - https://microacquire.com/
   - https://app.microacquire.com/marketplace
 - https://empireflippers.com/
+- https://www.opportunitynetwork.com/ (legal entity verification steps required)
 - https://flippa.com/
 - https://websiteproperties.com/
   - https://websiteproperties.com/websites-for-sale/
