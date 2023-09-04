@@ -34,6 +34,7 @@ Contact: robert@bonaroo.nl
 - https://buymysideproject.com/
 - https://www.microns.io/
 - https://transferslot.com/
+- https://www.startups.fyi/
 
 # Dutch
 
