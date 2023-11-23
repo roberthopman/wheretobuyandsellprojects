@@ -16,6 +16,7 @@ Contact: robert@bonaroo.nl
 - https://empireflippers.com/
 - https://www.opportunitynetwork.com/ (legal entity verification steps required)
 - https://flippa.com/
+- https://www.websiteclosers.com/businesses-for-sale
 - https://websiteproperties.com/
   - https://websiteproperties.com/websites-for-sale/
 - https://quietlight.com/
