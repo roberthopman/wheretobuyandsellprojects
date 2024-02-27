@@ -1,9 +1,6 @@
 # Places to buy and sell projects*
 
-*Projects include: 
-- mobile apps
-- websites
-- businesses
+*Project means custom software with or without revenue
 
 Contact: robert@bonaroo.nl
 
