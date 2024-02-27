@@ -32,7 +32,6 @@ Contact: robert@bonaroo.nl
   - https://acquirebase.com/startups
 - https://indiemaker.co/
 - https://www.sideprojectors.com/
-- https://buymysideproject.com/
 - https://www.microns.io/
 - https://transferslot.com/
 - https://www.startups.fyi/
